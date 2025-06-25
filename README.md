@@ -38,6 +38,8 @@ Além disso, protótipos pré-construídos podem ser mantidos em um registro par
 
 ༄ Opcionalmente, pode existir um **registro de protótipos** que armazena objetos configurados para serem facilmente clonados.
 
+![Diagrama do padrão Prototype](./image.png)
+
 ---
 
 ## ❥ Aplicabilidade
@@ -78,3 +80,9 @@ Além disso, protótipos pré-construídos podem ser mantidos em um registro par
 ## ❥ Créditos
 
 ༄ Este conteúdo foi elaborado por [Rafaela Martins](https://github.com/rafaeladmm).
+
+---
+
+## ❥ Vídeo
+
+༄ **Vídeo explicativo:** [Clique aqui pra Assistir](https://drive.google.com/drive/folders/17ZGb3AmYrQe1YJsX7g76sYVHZEYdwgkF?usp=drive_link)
