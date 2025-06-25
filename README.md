@@ -38,7 +38,7 @@ Além disso, protótipos pré-construídos podem ser mantidos em um registro par
 
 ༄ Opcionalmente, pode existir um **registro de protótipos** que armazena objetos configurados para serem facilmente clonados.
 
-<img src="./image.png" alt="Diagrama do padrão Prototype" style="border-radius: 10px; max-width: 80%; display: block; margin: 0 auto;">
+<img src="./image.png" alt="Diagrama do padrão Prototype" style="border-radius: 30px; max-width: 80%; display: block; margin: 0 auto;">
 
 
 ---
